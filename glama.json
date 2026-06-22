@@ -1,0 +1,8 @@
+{
+  "$schema": "https://glama.ai/mcp/schemas/server.json",
+  "maintainers": [
+    "309441738"
+  ],
+  "name": "xxxx",
+  "description": "xxxx —— 由 CruiseSkillBridge 一键发布的MCP。"
+}
